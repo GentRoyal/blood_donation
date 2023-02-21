@@ -1,0 +1,10 @@
+seaborn
+matplotlib
+sklearn
+imblearn
+plotly
+ipywidgets
+dash_bootstrap_components
+jupyter_dash
+dash_daq 
+dash
